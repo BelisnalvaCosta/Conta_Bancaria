@@ -8,4 +8,5 @@ HERANÇA: Ela permite que as classes derivadas(Filhas) herdem da classe base(Rai
 
 ENCAPSULAMENTO: Ele esconde a implmentação dos objetos, criando assim a interface para facilitar e deixar os códigos mais enxutos. 
 
-Também fiz uma Interface extra "CalcularSaldoBancario", fazendo assim as 4 operações básicas principais (+, -, * e /).
+Também fiz uma Interface extra "CalcularSaldoBancario", fazendo assim as 4 operações básicas principais (+, -, * e /). 
+OBSERVAÇÃO: CalcularSaldoBancario, é uma classe básica, e para fazer calculos com a moeda brasileira têm que incrementá-la pondo "Double ou Float".
